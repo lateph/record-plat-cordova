@@ -1,0 +1,6 @@
+/* Empty. Add your own CSS if you like */
+.item[isRecording='1']{
+    border-color: #28a54c;
+    background-color: #33cd5f;
+    color: #fff;
+}
